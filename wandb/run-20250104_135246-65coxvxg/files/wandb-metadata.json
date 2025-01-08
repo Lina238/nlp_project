@@ -1,0 +1,31 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.12.5",
+  "startedAt": "2025-01-04T12:52:46.469769Z",
+  "program": "C:\\Users\\Lina-pc\\OneDrive\\Bureau\\nlp_devoir_q&a\\tp.py",
+  "codePath": "OneDrive\\Bureau\\nlp_devoir_q&a\\tp.py",
+  "git": {
+    "remote": "https://github.com/Lina238/Heddad.git",
+    "commit": "57fd72eb6c5b54bf206c28f0d10b3e8751f3926d"
+  },
+  "email": "linabenyahia1408@gmail.com",
+  "root": "C:\\Users\\Lina-pc\\OneDrive\\Bureau\\nlp_devoir_q&a",
+  "host": "DESKTOP-JF4V9BB",
+  "executable": "C:\\Python312\\python.exe",
+  "codePathLocal": "tp.py",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "522985070592",
+      "used": "319836590080"
+    }
+  },
+  "memory": {
+    "total": "17067884544"
+  },
+  "cpu": {
+    "count": 2,
+    "countLogical": 4
+  }
+}

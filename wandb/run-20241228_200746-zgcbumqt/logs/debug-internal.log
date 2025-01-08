@@ -1,0 +1,33 @@
+{"time":"2024-12-28T20:07:46.8106886+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-28T20:07:46.8116976+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Lina-pc\\OneDrive\\Bureau\\nlp_devoir_q&a\\wandb\\run-20241228_200746-zgcbumqt\\logs\\debug-core.log"}
+{"time":"2024-12-28T20:07:46.933902+01:00","level":"INFO","msg":"created new stream","id":"zgcbumqt"}
+{"time":"2024-12-28T20:07:46.933902+01:00","level":"INFO","msg":"stream: started","id":"zgcbumqt"}
+{"time":"2024-12-28T20:07:46.933902+01:00","level":"INFO","msg":"sender: started","stream_id":"zgcbumqt"}
+{"time":"2024-12-28T20:07:46.9349228+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"zgcbumqt"}
+{"time":"2024-12-28T20:07:46.933902+01:00","level":"INFO","msg":"handler: started","stream_id":"zgcbumqt"}
+{"time":"2024-12-28T20:07:47.791739+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-28T20:11:45.0940719+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": unexpected EOF"}
+{"time":"2024-12-28T20:12:39.8890856+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": read tcp 192.168.79.215:64207->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2024-12-28T20:13:32.090739+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": unexpected EOF"}
+{"time":"2024-12-28T20:20:23.3746269+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": unexpected EOF"}
+{"time":"2024-12-28T20:20:36.6083215+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-28T20:24:47.1979878+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": unexpected EOF"}
+{"time":"2024-12-28T21:29:38.8254819+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2024-12-28T21:29:40.6364519+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.79.215:51538->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2024-12-28T21:30:02.3607721+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2024-12-28T21:30:04.3407173+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2024-12-28T21:32:39.6343149+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": read tcp 192.168.79.215:52524->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2024-12-28T21:32:58.9431912+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-28T21:33:27.7263855+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-28T21:48:18.0772958+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": unexpected EOF"}
+{"time":"2024-12-28T21:54:19.1095526+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-28T21:54:32.4737161+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/zgcbumqt/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-28T22:11:39.8607734+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-28T22:11:39.862703+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-28T22:11:40.8768931+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 2-2, summary, console lines 11-27","runtime_seconds":3.0823767}],"total_operations":1}}
+{"time":"2024-12-28T22:11:47.7775076+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-28T22:11:52.3924783+01:00","level":"INFO","msg":"stream: closing","id":"zgcbumqt"}
+{"time":"2024-12-28T22:11:52.3924783+01:00","level":"INFO","msg":"handler: closed","stream_id":"zgcbumqt"}
+{"time":"2024-12-28T22:11:52.3924783+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zgcbumqt"}
+{"time":"2024-12-28T22:11:52.3924783+01:00","level":"INFO","msg":"sender: closed","stream_id":"zgcbumqt"}
+{"time":"2024-12-28T22:11:52.3924783+01:00","level":"INFO","msg":"stream: closed","id":"zgcbumqt"}

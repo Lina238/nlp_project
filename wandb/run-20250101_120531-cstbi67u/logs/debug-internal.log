@@ -1,0 +1,16 @@
+{"time":"2025-01-01T12:05:31.9001472+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-01T12:05:31.9001472+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Lina-pc\\OneDrive\\Bureau\\nlp_devoir_q&a\\wandb\\run-20250101_120531-cstbi67u\\logs\\debug-core.log"}
+{"time":"2025-01-01T12:05:33.4325283+01:00","level":"INFO","msg":"created new stream","id":"cstbi67u"}
+{"time":"2025-01-01T12:05:33.4325283+01:00","level":"INFO","msg":"stream: started","id":"cstbi67u"}
+{"time":"2025-01-01T12:05:33.4338648+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"cstbi67u"}
+{"time":"2025-01-01T12:05:33.4457432+01:00","level":"INFO","msg":"sender: started","stream_id":"cstbi67u"}
+{"time":"2025-01-01T12:05:33.4462655+01:00","level":"INFO","msg":"handler: started","stream_id":"cstbi67u"}
+{"time":"2025-01-01T12:05:34.3553151+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-01T12:06:23.3505133+01:00","level":"INFO","msg":"stream: closing","id":"cstbi67u"}
+{"time":"2025-01-01T12:06:23.3505133+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-01T12:06:23.3515128+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-01T12:06:24.4835665+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-01T12:06:24.9138838+01:00","level":"INFO","msg":"handler: closed","stream_id":"cstbi67u"}
+{"time":"2025-01-01T12:06:24.9138838+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cstbi67u"}
+{"time":"2025-01-01T12:06:24.9138838+01:00","level":"INFO","msg":"sender: closed","stream_id":"cstbi67u"}
+{"time":"2025-01-01T12:06:24.9146152+01:00","level":"INFO","msg":"stream: closed","id":"cstbi67u"}

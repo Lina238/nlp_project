@@ -1,0 +1,17 @@
+{"time":"2025-01-01T12:11:03.7881141+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-01T12:11:03.7881141+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Lina-pc\\OneDrive\\Bureau\\nlp_devoir_q&a\\wandb\\run-20250101_121103-7sgmyqlo\\logs\\debug-core.log"}
+{"time":"2025-01-01T12:11:04.0886677+01:00","level":"INFO","msg":"created new stream","id":"7sgmyqlo"}
+{"time":"2025-01-01T12:11:04.089444+01:00","level":"INFO","msg":"stream: started","id":"7sgmyqlo"}
+{"time":"2025-01-01T12:11:04.1553628+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"7sgmyqlo"}
+{"time":"2025-01-01T12:11:04.1859352+01:00","level":"INFO","msg":"sender: started","stream_id":"7sgmyqlo"}
+{"time":"2025-01-01T12:11:04.1859352+01:00","level":"INFO","msg":"handler: started","stream_id":"7sgmyqlo"}
+{"time":"2025-01-01T12:11:04.9710163+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-01T12:59:11.9352204+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/7sgmyqlo/file_stream\": unexpected EOF"}
+{"time":"2025-01-01T13:10:15.6446524+01:00","level":"INFO","msg":"stream: closing","id":"7sgmyqlo"}
+{"time":"2025-01-01T13:10:15.6446524+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-01T13:10:15.6612243+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-01T13:10:16.7593956+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-01T13:10:17.1082844+01:00","level":"INFO","msg":"handler: closed","stream_id":"7sgmyqlo"}
+{"time":"2025-01-01T13:10:17.1082844+01:00","level":"INFO","msg":"sender: closed","stream_id":"7sgmyqlo"}
+{"time":"2025-01-01T13:10:17.1082844+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"7sgmyqlo"}
+{"time":"2025-01-01T13:10:17.1102827+01:00","level":"INFO","msg":"stream: closed","id":"7sgmyqlo"}

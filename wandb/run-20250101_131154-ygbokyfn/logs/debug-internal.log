@@ -1,0 +1,16 @@
+{"time":"2025-01-01T13:11:54.1270108+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-01T13:11:54.1310205+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Lina-pc\\OneDrive\\Bureau\\nlp_devoir_q&a\\wandb\\run-20250101_131154-ygbokyfn\\logs\\debug-core.log"}
+{"time":"2025-01-01T13:11:54.8952819+01:00","level":"INFO","msg":"created new stream","id":"ygbokyfn"}
+{"time":"2025-01-01T13:11:54.8952819+01:00","level":"INFO","msg":"stream: started","id":"ygbokyfn"}
+{"time":"2025-01-01T13:11:54.8952819+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ygbokyfn"}
+{"time":"2025-01-01T13:11:54.8952819+01:00","level":"INFO","msg":"handler: started","stream_id":"ygbokyfn"}
+{"time":"2025-01-01T13:11:54.8952819+01:00","level":"INFO","msg":"sender: started","stream_id":"ygbokyfn"}
+{"time":"2025-01-01T13:12:02.0426217+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-01T13:12:31.3168263+01:00","level":"INFO","msg":"stream: closing","id":"ygbokyfn"}
+{"time":"2025-01-01T13:12:31.3186125+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-01T13:12:31.3214897+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-01T13:12:32.2898541+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-01T13:12:32.8809137+01:00","level":"INFO","msg":"handler: closed","stream_id":"ygbokyfn"}
+{"time":"2025-01-01T13:12:32.8809137+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ygbokyfn"}
+{"time":"2025-01-01T13:12:32.8824219+01:00","level":"INFO","msg":"sender: closed","stream_id":"ygbokyfn"}
+{"time":"2025-01-01T13:12:32.8859709+01:00","level":"INFO","msg":"stream: closed","id":"ygbokyfn"}

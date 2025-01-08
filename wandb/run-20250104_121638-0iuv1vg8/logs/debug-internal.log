@@ -1,0 +1,30 @@
+{"time":"2025-01-04T12:16:38.3545289+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-04T12:16:38.3545289+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Lina-pc\\OneDrive\\Bureau\\nlp_devoir_q&a\\wandb\\run-20250104_121638-0iuv1vg8\\logs\\debug-core.log"}
+{"time":"2025-01-04T12:16:39.5327624+01:00","level":"INFO","msg":"created new stream","id":"0iuv1vg8"}
+{"time":"2025-01-04T12:16:39.5327624+01:00","level":"INFO","msg":"stream: started","id":"0iuv1vg8"}
+{"time":"2025-01-04T12:16:39.5327624+01:00","level":"INFO","msg":"handler: started","stream_id":"0iuv1vg8"}
+{"time":"2025-01-04T12:16:39.5327624+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"0iuv1vg8"}
+{"time":"2025-01-04T12:16:39.5338542+01:00","level":"INFO","msg":"sender: started","stream_id":"0iuv1vg8"}
+{"time":"2025-01-04T12:16:40.3015338+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-04T12:41:52.3378921+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-04T13:07:07.3482428+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-04T13:17:11.4034605+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": dial tcp: lookup api.wandb.ai: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server."}
+{"time":"2025-01-04T13:17:13.491778+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": dial tcp: lookup api.wandb.ai: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server."}
+{"time":"2025-01-04T13:24:21.3874221+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": unexpected EOF"}
+{"time":"2025-01-04T13:24:57.4241705+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": unexpected EOF"}
+{"time":"2025-01-04T13:25:35.3795736+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": unexpected EOF"}
+{"time":"2025-01-04T13:26:21.9825831+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": unexpected EOF"}
+{"time":"2025-01-04T13:27:40.2030464+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": unexpected EOF"}
+{"time":"2025-01-04T13:27:53.654003+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-04T13:28:09.454835+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-04T13:28:30.5136833+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-04T13:28:59.5462205+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-04T13:40:30.6863496+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/linabenyahia1408-estin/medical-qa-peft/0iuv1vg8/file_stream\": unexpected EOF"}
+{"time":"2025-01-04T13:45:24.6525749+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-04T13:45:24.6525749+01:00","level":"INFO","msg":"stream: closing","id":"0iuv1vg8"}
+{"time":"2025-01-04T13:45:24.6753307+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-04T13:45:25.9521482+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-04T13:45:26.6260196+01:00","level":"INFO","msg":"handler: closed","stream_id":"0iuv1vg8"}
+{"time":"2025-01-04T13:45:26.6260196+01:00","level":"INFO","msg":"sender: closed","stream_id":"0iuv1vg8"}
+{"time":"2025-01-04T13:45:26.6260196+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"0iuv1vg8"}
+{"time":"2025-01-04T13:45:26.6265519+01:00","level":"INFO","msg":"stream: closed","id":"0iuv1vg8"}

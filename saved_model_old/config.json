@@ -1,0 +1,6 @@
+{
+  "model_name": "bert",
+  "peft_technique": null,
+  "pruning_amount": 0.3,
+  "max_length": 512
+}
